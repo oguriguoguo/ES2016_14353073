@@ -1,0 +1,10 @@
+ERROR 2016-10-07 00:27:04 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2016-10-07 00:27:04 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2016-10-07 00:27:04 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+WARN  2016-10-07 00:27:05 unity.glib.dbus.proxy GLibDBusProxy.cpp:483 Calling method "SyncOne" on object path: "/com/canonical/Unity/Panel/Service" failed: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.Unity.Panel.Service.LockScreen was not provided by any .service files
+ERROR 2016-10-07 00:37:11 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2016-10-07 00:37:11 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2016-10-07 00:37:11 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+

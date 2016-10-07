@@ -1,0 +1,17 @@
+#ifndef FIXED_POINT_H
+#define FIXED_POINT_H
+#include <stdint.h>
+
+int  convert_to_fixed_point(int n);
+int convert_to_integer_zero(int x);
+int convert_to_integer_nearest(int x);
+int add_fixed_point_and_fixed_point(int x,int y);
+int add_fixed_point_and_integer(int x,int n);
+int subtract_fixed_point_from_fixed_point(int x,int y);
+int subtract_integer_from_fixed_point(int x,int n);
+int multiply_fixed_point_by_fixed_point(int x,int y);
+int multiply_fixed_point_by_integer(int x,int n);
+int divide_fixed_point_by_fixed_point(int x,int);
+int divide_fixed_point_by_integer(int x,int n);
+
+#endif
