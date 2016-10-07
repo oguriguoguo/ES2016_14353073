@@ -95,6 +95,8 @@ including binding and mapping.The DOL consists of basically three parts:**
 &#8195;&#8194;`$	cd ../dol`
 
 + **找到下面这段话，修改build_zip.xml文件**
+
+
 > property name="systemc.inc" value="pwd的结果/include"/
 
 > property name="systemc.lib" value="pwd的结果/lib-linux/libsystemc.a"/
