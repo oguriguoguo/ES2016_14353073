@@ -802,4 +802,17 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/coolm/.git/description" added="2016-10-07T10:46:57Z" modified="2016-10-07T10:46:57Z" visited="2016-10-07T10:46:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2016-10-07T10:46:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

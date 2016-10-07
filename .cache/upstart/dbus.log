@@ -5,3 +5,9 @@ Activating service name='com.ubuntu.sso'
 Successfully activated service 'com.ubuntu.sso'
 Activating service name='com.ubuntu.sso'
 Successfully activated service 'com.ubuntu.sso'
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+
+** (zeitgeist-fts:2256): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
