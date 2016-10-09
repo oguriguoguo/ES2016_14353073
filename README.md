@@ -15,7 +15,7 @@ including binding and mapping.The DOL consists of basically three parts:**
 + **DOL Application Programming Interface**
 + **DOL Functional Simulaion**
 + **DOL Mapping Optimization**
-![](http://thumbnail0.baidupcs.com/thumbnail/a566f8f76666981593766cfd224dea7d?fid=2432703063-250528-809632490140110&time=1475830800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-OTnACekV4Fpi1%2Bkx3ipeLZTd8dg%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=3892116902&dp-callid=0&size=c850_u580&quality=100)
+![](http://thumbnail0.baidupcs.com/thumbnail/a566f8f76666981593766cfd224dea7d?fid=2432703063-250528-809632490140110&time=1475985600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-nfdYE1zhIxW4lyEPvn%2ByfL1uPHI%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2142032653&dp-callid=0&size=c850_u580&quality=100)
 
 <br/>
 ##二、DOL安装笔记
@@ -70,21 +70,21 @@ including binding and mapping.The DOL consists of basically three parts:**
 
 >**<big>实施上述步骤后的运行结果如下：</big>**
 
-![](http://thumbnail0.baidupcs.com/thumbnail/bdc0984517463a2007773b1b9abf6b5f?fid=2432703063-250528-617882074405453&time=1475830800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-bH3LKt%2FX42iifF9xJLr6PgMKEcg%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=4058878637&dp-callid=0&size=c850_u580&quality=100)
+![](http://thumbnail0.baidupcs.com/thumbnail/bdc0984517463a2007773b1b9abf6b5f?fid=2432703063-250528-617882074405453&time=1475985600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-z2uwfvEokDmNMQrm5SS1KCcI9fQ%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2142032653&dp-callid=0&size=c850_u580&quality=100)
 
 + **编译**
 
 &#8195;&#8194;`$	sudo make install`
 
 >**<big>编译后的文件目录为：</big>**
-&#8194;![](http://thumbnail0.baidupcs.com/thumbnail/1c5eff87f2f3c2c8abe84badbd5df583?fid=2432703063-250528-547817748855617&time=1475834400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-DfF77evaVPnpEE8T4wKP6xTtPWc%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=4102961169&dp-callid=0&size=c850_u580&quality=100)
+&#8194;![](http://thumbnail0.baidupcs.com/thumbnail/1c5eff87f2f3c2c8abe84badbd5df583?fid=2432703063-250528-547817748855617&time=1475985600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lZop9LIbGKkS%2Ff3BjbBaeayiWwY%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2142032653&dp-callid=0&size=c850_u580&quality=100)
 
 + **记录当前的工作路径**
 
 &#8195;&#8194;`$	pwd`
 
 >**<big>工作路径为：</big>**
-&#8194;![](http://thumbnail0.baidupcs.com/thumbnail/dc987ed4f899d741436d702ab8bf0e84?fid=2432703063-250528-874814689054139&time=1475834400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-nDrPjar%2FnC8UKIpyhEDnEu2Txf8%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=4121588629&dp-callid=0&size=c850_u580&quality=100)
+&#8194;![](http://thumbnail0.baidupcs.com/thumbnail/dc987ed4f899d741436d702ab8bf0e84?fid=2432703063-250528-874814689054139&time=1475985600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-29bv1vyR6BVFPNDfSn9JCg%2B3rMo%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2142032653&dp-callid=0&size=c850_u580&quality=100)
 
 <br/>
 
@@ -107,7 +107,7 @@ including binding and mapping.The DOL consists of basically three parts:**
 
 >**<big>编译成功会显示下图所示的"build successful"：</big>**
 
-![](http://thumbnail0.baidupcs.com/thumbnail/5fc8f1a2d119c34923132b92cd924e0b?fid=2432703063-250528-511643621891890&time=1475834400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Lc8m%2FGFsaQY4LgRqJ5%2Bg2ibSLDU%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=4187131035&dp-callid=0&size=c850_u580&quality=100)
+![](http://thumbnail0.baidupcs.com/thumbnail/5fc8f1a2d119c34923132b92cd924e0b?fid=2432703063-250528-511643621891890&time=1475985600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-HAeZTPYP9BBTqbYs%2BAq%2FasdHYsc%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2142032653&dp-callid=0&size=c850_u580&quality=100)
 
 <br/>
 
@@ -122,7 +122,7 @@ including binding and mapping.The DOL consists of basically three parts:**
 &#8195;&#8194;`$	ant -f runexample.xml -Dnumber=1`
 
 >**<big>成功运行结果为：</big>**
-&#8194; ![](http://thumbnail0.baidupcs.com/thumbnail/af9d79ffa0c582c59e19dafd488caa87?fid=2432703063-250528-446576644530236&time=1475834400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-aBRNBvdICS%2F2h%2Bm5UztUM2QeTkc%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=4255233438&dp-callid=0&size=c850_u580&quality=100)
+&#8194; ![](http://thumbnail0.baidupcs.com/thumbnail/af9d79ffa0c582c59e19dafd488caa87?fid=2432703063-250528-446576644530236&time=1475985600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-GaNudmlkYYoOOgfIdXZ7HVsCUII%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2065650771&dp-callid=0&size=c850_u580&quality=100)
 
 <br/>
 
