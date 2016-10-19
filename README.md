@@ -15,7 +15,7 @@ including binding and mapping.The DOL consists of basically three parts:**
 + **DOL Application Programming Interface**
 + **DOL Functional Simulaion**
 + **DOL Mapping Optimization**
-![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.1.png?raw=true)
+![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.1.PNG?raw=true)
 
 <br/>
 ##二、DOL安装笔记
@@ -70,21 +70,21 @@ including binding and mapping.The DOL consists of basically three parts:**
 
 >**<big>实施上述步骤后的运行结果如下：</big>**
 
-![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.2.png?raw=true)
+![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.2.PNG?raw=true)
 
 + **编译**
 
 &#8195;&#8194;`$	sudo make install`
 
 >**<big>编译后的文件目录为：</big>**
-&#8194;![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.3.png?raw=true)
+&#8194;![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.3.PNG?raw=true)
 
 + **记录当前的工作路径**
 
 &#8195;&#8194;`$	pwd`
 
 >**<big>工作路径为：</big>**
-&#8194;![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.4.png?raw=true)
+&#8194;![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.4.PNG?raw=true)
 
 <br/>
 
@@ -107,7 +107,7 @@ including binding and mapping.The DOL consists of basically three parts:**
 
 >**<big>编译成功会显示下图所示的"build successful"：</big>**
 
-![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.5.png?raw=true)
+![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.5.PNG?raw=true)
 
 <br/>
 
@@ -122,7 +122,7 @@ including binding and mapping.The DOL consists of basically three parts:**
 &#8195;&#8194;`$	ant -f runexample.xml -Dnumber=1`
 
 >**<big>成功运行结果为：</big>**
-&#8194; ![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.6.png?raw=true)
+&#8194; ![](https://github.com/oguriguoguo/ES2016_14353073/blob/master/1.6.PNG?raw=true)
 
 <br/>
 
